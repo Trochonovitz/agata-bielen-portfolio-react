@@ -1,0 +1,37 @@
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+
+  list-style-type: none;
+
+  width: 50%;
+
+  .liElement {
+    display: flex;
+    justify-content: space-between;
+
+    width: 60%;
+    margin-bottom: 15px;
+
+    font-size: 0.8rem;
+    .collectionName {
+      font-weight: bold;
+    }
+
+    .arrow,
+    .collectionNumber {
+      color: grey;
+    }
+  }
+}
+
+.conditionalWrapper {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+
+  list-style-type: none;
+
+  width: 50%;
+}

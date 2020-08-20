@@ -1,0 +1,37 @@
+.wrapper {
+  display: flex;
+  position: relative;
+
+  padding: 0 20px 20px;
+  cursor: pointer;
+
+  .info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    .collection {
+      color: grey;
+      writing-mode: sideways-lr;
+      padding-right: 10px;
+    }
+
+    .collectionName {
+      font-size: 1.5rem;
+      position: absolute;
+      top: 250px;
+      color: black;
+    }
+
+    .arrow {
+      position: absolute;
+      color: grey;
+      top: 300px;
+    }
+  }
+}
+
+.cardImage {
+  width: 80%;
+}

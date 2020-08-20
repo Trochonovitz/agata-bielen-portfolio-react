@@ -1,0 +1,29 @@
+.previousController,
+.nextController,
+.leftBottomDecoration,
+.rightBottomDecoration {
+  width: 200px;
+  height: 1px;
+  background-color: lightgray;
+  position: absolute;
+}
+
+.previousController {
+  top: 35px;
+  left: 50px;
+}
+
+.nextController {
+  top: 35px;
+  right: 50px;
+}
+
+.leftBottomDecoration {
+  bottom: 35px;
+  left: 50px;
+}
+
+.rightBottomDecoration {
+  bottom: 35px;
+  right: 50px;
+}

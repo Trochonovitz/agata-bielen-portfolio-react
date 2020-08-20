@@ -1,0 +1,23 @@
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 50px;
+
+  font-size: 1.5rem;
+
+  position: relative;
+}
+
+.seeAllOff,
+.seeAllOn {
+  color: grey;
+  position: absolute;
+  top: 94%;
+  left: 50%;
+}
+
+.seeAllOff {
+  text-decoration: line-through;
+}
