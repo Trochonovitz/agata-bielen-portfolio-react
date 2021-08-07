@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/agata-bielen-portfolio-react/static/css/main.090f672b.chunk.css",
+    "main.js": "/agata-bielen-portfolio-react/static/js/main.eaa837dd.chunk.js",
+    "main.js.map": "/agata-bielen-portfolio-react/static/js/main.eaa837dd.chunk.js.map",
+    "runtime-main.js": "/agata-bielen-portfolio-react/static/js/runtime-main.f5f9c235.js",
+    "runtime-main.js.map": "/agata-bielen-portfolio-react/static/js/runtime-main.f5f9c235.js.map",
+    "static/js/2.8e25009e.chunk.js": "/agata-bielen-portfolio-react/static/js/2.8e25009e.chunk.js",
+    "static/js/2.8e25009e.chunk.js.map": "/agata-bielen-portfolio-react/static/js/2.8e25009e.chunk.js.map",
+    "static/css/3.f01e4b95.chunk.css": "/agata-bielen-portfolio-react/static/css/3.f01e4b95.chunk.css",
+    "static/js/3.9e9902da.chunk.js": "/agata-bielen-portfolio-react/static/js/3.9e9902da.chunk.js",
+    "static/js/3.9e9902da.chunk.js.map": "/agata-bielen-portfolio-react/static/js/3.9e9902da.chunk.js.map",
+    "static/css/4.f01e4b95.chunk.css": "/agata-bielen-portfolio-react/static/css/4.f01e4b95.chunk.css",
+    "static/js/4.c09a57f3.chunk.js": "/agata-bielen-portfolio-react/static/js/4.c09a57f3.chunk.js",
+    "static/js/4.c09a57f3.chunk.js.map": "/agata-bielen-portfolio-react/static/js/4.c09a57f3.chunk.js.map",
+    "static/css/5.a1fda8ff.chunk.css": "/agata-bielen-portfolio-react/static/css/5.a1fda8ff.chunk.css",
+    "static/js/5.e6177fc0.chunk.js": "/agata-bielen-portfolio-react/static/js/5.e6177fc0.chunk.js",
+    "static/js/5.e6177fc0.chunk.js.map": "/agata-bielen-portfolio-react/static/js/5.e6177fc0.chunk.js.map",
+    "index.html": "/agata-bielen-portfolio-react/index.html",
+    "precache-manifest.dc57659709146a2c6d4e57abee702037.js": "/agata-bielen-portfolio-react/precache-manifest.dc57659709146a2c6d4e57abee702037.js",
+    "service-worker.js": "/agata-bielen-portfolio-react/service-worker.js",
+    "static/css/3.f01e4b95.chunk.css.map": "/agata-bielen-portfolio-react/static/css/3.f01e4b95.chunk.css.map",
+    "static/css/4.f01e4b95.chunk.css.map": "/agata-bielen-portfolio-react/static/css/4.f01e4b95.chunk.css.map",
+    "static/css/5.a1fda8ff.chunk.css.map": "/agata-bielen-portfolio-react/static/css/5.a1fda8ff.chunk.css.map",
+    "static/css/main.090f672b.chunk.css.map": "/agata-bielen-portfolio-react/static/css/main.090f672b.chunk.css.map",
+    "static/js/2.8e25009e.chunk.js.LICENSE.txt": "/agata-bielen-portfolio-react/static/js/2.8e25009e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5f9c235.js",
+    "static/js/2.8e25009e.chunk.js",
+    "static/css/main.090f672b.chunk.css",
+    "static/js/main.eaa837dd.chunk.js"
+  ]
+}
