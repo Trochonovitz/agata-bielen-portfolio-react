@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/agata-bielen-portfolio-react/precache-manifest.dc57659709146a2c6d4e57abee702037.js"
+  "/agata-bielen-portfolio-react/precache-manifest.e66e5d681be6622f78189d78804d364f.js"
 );
 
 self.addEventListener('message', (event) => {
