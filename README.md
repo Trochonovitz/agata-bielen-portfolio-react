@@ -1,8 +1,6 @@
-# Website link: https://trochonovitz.github.io/agata-bielen-portfolio-react/
+# Website: https://trochonovitz.github.io/agata-bielen-portfolio-react/
 
-## Basic single page application built with Create React App.
-
-### Main libraries used to build: CSS (SCSS) Modules.
+## Simple single page application built with Create React App. No other functionalities - only static view + responsive design (SCSS: node-sass).
 
 ## Available Scripts
 
